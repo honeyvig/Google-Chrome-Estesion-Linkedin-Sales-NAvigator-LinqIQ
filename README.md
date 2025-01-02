@@ -1,4 +1,4 @@
-# Google-Chrome-Estesion-Linkedin-Sales-NAvigator-LinqIQ
+# Google-Chrome-Exstension-Linkedin-Sales-Navigator-LinqIQ
  Lead IQ to collect data from LinkedIn Sales Navigator but is not interested in developing custom software. Instead, they are looking for the following solution:
 
 1. Open LinkedIn Sales Navigator on one page.
